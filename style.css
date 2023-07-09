@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 110vh;
+    flex-direction: column;
+    color: white;
+}
+
+.card {
+    width: 50%;
+    height: 100%;
+}
+
+.motiv {
+    width: 100%;
+    border: 5px solid white;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 70px;
+    text-align: center;
+    margin-top: -5px;
+}
+
+.motiv-text {
+    font-size: 30px;
+    margin-top: -45px;
+    text-align: center;
+}
+
+footer {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.heart {
+    width: 8px;
+    height: 8px;
+}
+
+.name {
+    color: aqua;
+    font-weight: bolder;
+}
+
+.name:hover {
+    background-color: purple;
+}
+
+@media (max-width: 1220px) {
+    .container {
+        width: 100%;
+    }
+
+    .card {
+        width: 100%;
+        text-align: justify;
+    }
+
+}
