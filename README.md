@@ -34,7 +34,7 @@ I decided to create this motivational page to practice what I've learned so far.
 - Website - [David Boateng](https://linktr.ee/kbthe2)
 - Frontend Mentor - [@kbthe2](https://www.frontendmentor.io/profile/kbthe2)
 - Twitter - [@kbtheII](https://twitter.com/kbtheII)
-- Dev.to - [@kbthe2](https://dev.to/kbthe2))
+- Dev.to - [@kbthe2](https://dev.to/kbthe2)
 
 ## Acknowledgments
 
